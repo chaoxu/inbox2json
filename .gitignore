@@ -1,3 +1,9 @@
+#
+.idea
+*.DS_Store
+config.yml
+*.db
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
